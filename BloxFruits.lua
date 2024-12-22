@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://you.whimper.xyz/sources/btteam/SystemUI.lua"))() -- LIBRARY
 
 
-local Window = Library:CreateWindow('BLACKTRAP') -- CREATE WINDOW
+local Window = Library:CreateWindow('NguyenNoName Hub') -- CREATE WINDOW
 
 local Tab = { -- CREATE TABS
     Tab_1 = Window:addTab('#Home'),
