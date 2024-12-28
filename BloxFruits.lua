@@ -1,7 +1,7 @@
 local Library = loadstring(game:HttpGet("https://you.whimper.xyz/sources/btteam/SystemUI.lua"))() -- LIBRARY
 
 
-local Window = Library:CreateWindow('Coin Card Hub| By Nguyen Tran') -- CREATE WINDOW
+local Window = Library:CreateWindow('Cut Chim Hub| By Nguyen Tran') -- CREATE WINDOW
 
 local Tab = { -- CREATE TABS
     Tab_1 = Window:addTab('#Home'),
